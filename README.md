@@ -12,7 +12,7 @@ Bitirme Tarihi: 11/12/2023. Grade: 100/125.
 int main(void)
 {
       // fonksiyonu cagir
-      ft_printf("ft_printf testini basarili!");
+      ft_printf("ft_printf testi basarili!");
       return (0);
 }
 ```
@@ -36,7 +36,7 @@ ft_printf testi basarili!
 	</thead>
         <tr>
             <td align="center">%</td>
-            <td>% başka bir '%' karakterini takip eder ve %'yi ekrana yazar.</td>
+            <td>başka bir '%' karakterini takip eder ve %'yi ekrana yazar.</td>
         </tr>
         <tr>
             <td align="center">c</td>
